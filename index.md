@@ -6,6 +6,6 @@ layout: default
 
 Here are some samples of my Module 3 Time Series course work
 
-- [Link to another page](./another-page.html)
-- 
+- [M3TimeSeriesDecomp.html](.M3TimeSeriesDecomp.html)
+- [M3TimeSeriesDecomp.ipyb](.M3TimeSeriesDecomp.ipyb)
 
